@@ -1,0 +1,8 @@
+server {
+
+    server_name .spirit-matters.net; 
+    root /var/www/spirit-matters.net;
+
+    include conf.d/common.conf;
+
+}
